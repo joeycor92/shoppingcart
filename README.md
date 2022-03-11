@@ -2,6 +2,8 @@
 
 No packages need to be installed for this.
 
+Time spent: 3.5 hours
+
 Future work on this would include:
 - Implementing further tests, as these are not comprehensive
 - Could possibly add a discount feature for items in a specific category
